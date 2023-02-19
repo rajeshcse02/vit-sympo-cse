@@ -401,7 +401,7 @@ button {
   width: 50%;
   display: block;
 }
-@media screen and (max-width: 480px) and (max-width:390px) {
+@media screen and (max-width: 480px){
   .time {
     font-size:large;
     margin: 0 8px;
