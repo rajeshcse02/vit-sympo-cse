@@ -407,6 +407,9 @@ button {
   width: 50%;
   display: block;
 }
+.contact{
+  height: max-content;
+}
 @media screen and (max-width: 480px){
   .time {
     font-size:large;
@@ -447,5 +450,8 @@ button {
   }
   .revo{
     font-size: 20;
+  }
+  .contact{
+    height: max-content;
   }
 }
